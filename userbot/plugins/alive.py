@@ -36,7 +36,7 @@ pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/shinchan_the_h4
 
 pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/me_izz_shreef)\n\n"
 
-pm_caption += "    [✨REPO✨](https://github.com/hellboy-op/hellbot) 🔹 [📜License📜](https://github.com/HellBoy-OP/HellBot/blob/master/LICENSE)"
+pm_caption += "    [✨REPO✨](https://github.com/harry4552/hellbot) 🔹 [📜License📜](https://github.com/harry4552/HellBot/blob/master/LICENSE)"
 
 
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
