@@ -19,8 +19,8 @@ else:
 
 kraken = bot.uid
 
-PM_IMG = "https://telegra.ph/file/80e5200c615cf0cb57aa9.mp4"
-pm_caption = "__**🔥🔥ɦɛʟʟɮօt ɨs օռʟɨռɛ🔥🔥**__\n\n"
+PM_IMG = "https://telegra.ph/file/2dab398583392fdf5ed79.mp4"
+pm_caption = "__**☠ρøıƨøп ʙᴏᴛ☠**__\n\n"
 
 pm_caption += (
     f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『 [{DEFAULTUSER}](tg://user?id={kraken}) 』**\n\n"
@@ -28,13 +28,13 @@ pm_caption += (
 
 pm_caption += f"🛡️TELETHON🛡️ : `{version.__version__}` \n"
 
-pm_caption += f"😈Hêllẞø†😈       : __**{hellversion}**__\n"
+pm_caption += f"☠ρøıƨøп ʙᴏᴛ☠       : __**{hellversion}**__\n"
 
 pm_caption += f"⚜️Sudo⚜️            : `{sudou}`\n"
 
-pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/HellBot_Official)\n"
+pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/shinchan_the_h4ch3r)\n"
 
-pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/SupRemE_AnanD)\n\n"
+pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/me_izz_shreef)\n\n"
 
 pm_caption += "    [✨REPO✨](https://github.com/hellboy-op/hellbot) 🔹 [📜License📜](https://github.com/HellBoy-OP/HellBot/blob/master/LICENSE)"
 
@@ -58,3 +58,4 @@ CmdHelp("alive").add_command(
 ).add_info(
   'Zinda Hai Kya Bro?'
 ).add()
+
